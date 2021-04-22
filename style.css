@@ -1,0 +1,46 @@
+body {
+	background-color: #F5A869;
+	font: Georgia;
+	font-size: 18px;
+}
+
+#header {
+	text-align: center;
+	color: #552700;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  float: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.buttonr{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.buttonr:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.buttonq{
+  background-color: white; 
+  color: black; 
+  border: 2px solid red;
+}
+
+.buttonq:hover {
+  background-color: red;
+  color: white;
+}
